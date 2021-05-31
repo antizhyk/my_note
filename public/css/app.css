@@ -2,6 +2,9 @@
 
 /* Document
    ========================================================================== */
+* {
+    box-sizing: border-box;
+}
 
 /**
  * 1. Correct the line height in all browsers.
@@ -21,7 +24,9 @@ html {
  */
 
 body {
+    color: #ffffff;
     margin: 0;
+    font-family: sans-serif;
 }
 
 /**
